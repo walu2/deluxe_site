@@ -1,11 +1,16 @@
 *{
     margin:0;
     padding:0;
+
 }
 body{
     font-family:Arial;
-    padding-top:30px;
-    background:#FFF9DF url(title.png) no-repeat top center;
+    padding-top:150px;
+    background:#e6e6e6 url(title.png) no-repeat top center;
+}
+
+a {
+    color: #363636;
 }
 a.back{
     background:transparent url(back.png) no-repeat 0px 0px;
