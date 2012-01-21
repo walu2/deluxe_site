@@ -102,3 +102,10 @@ ul.menu > li ul li a:hover{
 .ifrm { font-size: 13px; margin-bottom: 7px; margin-top: 7px; margin-left: 5px; margin-right: 5px }
 .ifrm ul {padding-left: 20px;}
 .ifrm li {margin-top: 3px;}
+
+ #logo {
+    width: 684px;
+    height: 165px;
+    margin-top: 15px;
+    margin: auto;
+}

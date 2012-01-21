@@ -1,3 +1,9 @@
+<?php include '../includes/_header_meta.php'; ?>
+
+</head>
+<body>
+
+
 <div class="ifrm">
     <h3>Witaj drogi internauto!</h3>
     <ul>
@@ -16,3 +22,6 @@
     
     <h3 style="margin-top: 5px"> ... Jeżeli na którekolwiek pytanie padła odpowiedź twierdząca <b style="color: darkorange">gorrąco</b> zachęcamy do zapoznania się z naszymi usługami!</h3></br />
 </div>
+    
+    
+    <?php include '../includes/_footer.php'; ?>

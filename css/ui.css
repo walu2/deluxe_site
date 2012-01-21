@@ -5,8 +5,24 @@
 }
 body{
     font-family:Arial;
-    padding-top:150px;
-    background:#e6e6e6 url(title.png) no-repeat top center;
+   
+    /* Safari 4-5, Chrome 1-9 */
+    background: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#fff), to(#000));
+
+    /* Safari 5.1, Chrome 10+ */ 
+    background: -webkit-linear-gradient(top, #fff, #000);
+
+    /* Firefox 3.6+ */
+    background: -moz-linear-gradient(top, #fff, #000);
+
+    /* IE 10 */
+    background: -ms-linear-gradient(top, #fff, #000);
+
+    /* Opera 11.10+ */
+    background: -o-linear-gradient(top, #fff, #000);
+    
+    
+
 }
 
 a {

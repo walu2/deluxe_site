@@ -1,3 +1,10 @@
+<?php include '../includes/_header_meta.php'; ?>
+
+</head>
+<body>
+
+    
+
 <div class="ifrm">
         <h3>Nasza firma oferuje: </h3>
         <ul>
@@ -16,3 +23,6 @@
             <li>Tłumaczenie dokumentów, w języku niemieckim.</li>
         </ul>
 </div>
+    
+    
+    <?php include '../includes/_footer.php'; ?>
