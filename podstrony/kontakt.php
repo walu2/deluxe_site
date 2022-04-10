@@ -12,8 +12,8 @@
         <br />
         <h4>Siedziba:</h4>
         Firma Deluxe-Soft Piotr Walkowski<br />
-        ul. Komuny paryskiej 4/9<br />
-        58-304 Wałbrzych<br />
+        ul. Gdańska 10/2 <br />
+        58-300 Wałbrzych<br />
         <sub>Ewentualne wizyty prosze uprzednio telefonicznie / mailowo uzgodnić.</sub>
         <br /><br />
         <h4>REGON:</h4>
